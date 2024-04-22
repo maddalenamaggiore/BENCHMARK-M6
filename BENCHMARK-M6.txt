@@ -1,2 +1,3 @@
-Per vedere il report, accedere alla cartella drive al link: 
-https://drive.google.com/drive/folders/1jYU7lD1obQuBfIXAB06e7YEK4bNAfppy?usp=sharing
+Il report è stato caricato secondo due modalità:
+- Pubblicazione tramite utente Power BI fornito durante la lezione, all'area di lavoro "Maddalena Maggiore".
+- Tramite caricamento file alla cartella drive: https://drive.google.com/drive/folders/1jYU7lD1obQuBfIXAB06e7YEK4bNAfppy?usp=sharing.
